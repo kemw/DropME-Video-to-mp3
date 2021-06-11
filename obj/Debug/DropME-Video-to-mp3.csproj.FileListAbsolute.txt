@@ -1,0 +1,18 @@
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\bin\Debug\DropME-Video-to-mp3.exe.config
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\bin\Debug\DropME-Video-to-mp3.exe
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\bin\Debug\DropME-Video-to-mp3.pdb
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.csprojResolveAssemblyReference.cache
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME_Video_to_mp3.DropMe.resources
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME_Video_to_mp3.Properties.Resources.resources
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.csproj.GenerateResource.Cache
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.exe
+c:\users\electron\documents\visual studio 2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.pdb
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\bin\Debug\DropME-Video-to-mp3.exe.config
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.exe
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.pdb
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\bin\Debug\DropME-Video-to-mp3.exe
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\bin\Debug\DropME-Video-to-mp3.pdb
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.csprojResolveAssemblyReference.cache
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME_Video_to_mp3.DropMe.resources
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME_Video_to_mp3.Properties.Resources.resources
+C:\Users\ELECTRON\Documents\Visual-Studio-2013\Projects\DropME-Video-to-mp3\DropME-Video-to-mp3\obj\Debug\DropME-Video-to-mp3.csproj.GenerateResource.Cache
